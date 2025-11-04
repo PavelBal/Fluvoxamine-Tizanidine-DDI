@@ -9,7 +9,7 @@ The repository contains a [PK-Sim snapshot (*.json) file](https://docs.open-syst
 
 The reference model repositories can be found here:
 
-- [Fluvoxamine OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Fluvoxamine-Model)
+- [Fluvoxamine OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Fluvoxamine-Model/tree/cyp1a2_cyp2C19_DDI)
 - [Tizanidine OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Tizanidine-Model)
 
 ## Contacts
